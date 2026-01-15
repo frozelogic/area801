@@ -9,10 +9,13 @@ Todas as imagens estão otimizadas no formato WEBP para melhor performance, serv
 
 | Pasta | Conteúdo | Nomenclatura |
 |-------|----------|-------------|
+| **arremessaveis** | Consumíveis jogáveis | `[nome fixo].webp` |
 | **banner** | Barras de progresso do perfil | `[id].webp` |
+| **cartas** | Bilhetes utilizados para mensagens | `[nome do evento].webp` |
 | **emojis** | Emojis utilizados dentro do jogo | `[id].webp` |
 | **esferas** | Esferas do Transformice | `[id].webp` (exceto Esferas de Iniciantes) |
 | **flash** | Banners da Flash Squad | `[data].webp` |
+| **gamasutra** | Imagens da Gamasutra | `[nome fixo].webp` |
 | **inventario** | Itens do inventário | `[id].webp` |
 | **loja** | Itens de eventos da loja | `[data].webp` |
 | **mapas** | Mapas de eventos | `[nome do mapa/evento].webp` |
@@ -21,7 +24,10 @@ Todas as imagens estão otimizadas no formato WEBP para melhor performance, serv
 | **modules** | Imagens de modos e módulos | `[nome do modo/module].webp` |
 | **npcs** | NPCs no Transformice | `[nome do npc].webp` |
 | **outros** | Imagens sem nenhuma categoria | `[nome fixo].webp` |
+| **pets** | Imagens de pets do jogador | `[nome do pet].webp` |
 | **social** | Widget de redes sociais | `[rede social].webp` |
+| **standalones** | Imagens da postagem referente | `[nome fixo].webp` |
+| **tags** | Imagens das pichações | `[nome fixo].webp` |
 | **titulos** | Texto com todos os títulos | - |
 
 ### 📂 Script
