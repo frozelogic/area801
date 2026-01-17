@@ -25,6 +25,7 @@ Todas as imagens estão otimizadas no formato WEBP para melhor performance, serv
 | **npcs** | NPCs no Transformice | `[nome do npc].webp` |
 | **outros** | Imagens sem nenhuma categoria | `[nome fixo].webp` |
 | **pets** | Imagens de pets do jogador | `[nome do pet].webp` |
+| **sobre** | Imagens da postagem "Sobre" | `[nome fixo].webp` |
 | **social** | Widget de redes sociais | `[rede social].webp` |
 | **standalones** | Imagens da postagem referente | `[nome fixo].webp` |
 | **tags** | Imagens das pichações | `[nome fixo].webp` |
@@ -38,7 +39,9 @@ Códigos JavaScript organizados por categoria de uso.
 | **custom** | Atualizável | Scripts que recebem atualizações periódicas |
 | `baus.js` | - | Funcionalidades específicas para baús |
 | **vendor** | Estável | Scripts únicos que cumprem seu objetivo |
+| `contato.js` | - | Sistema de contato para a página referente |
 | `gameplay.js` | - | Funcionalidades relacionadas ao "Jogar Transformice" |
+| `resumo.js` | - | Funcionalidades sobre os eventos na página de resumos |
 | `search.js` | - | Sistema de busca e filtragem do evento Maravilhas |
 
 ### 📂 Styles
@@ -49,11 +52,13 @@ Folhas de estilo CSS para diferentes páginas e funcionalidades.
 | `baus.css` | Estilos para baús |
 | `blog.css` | Estilos não utilizados do blog |
 | `bouboum.css` | Estilos para o tutorial do Bouboum |
+| `contato.css` | Estilos para a página de contato |
 | `deadmaze.css` | Estilos para a dressroom do Dead Maze |
 | `iframe.css` | Estilos para iframes específicos |
 | `jogar.css` | Estilos para páginas com "Jogar" |
 | `loja.css` | Estilos para loja |
 | `main.css` | Estilos principais |
+| `resumo.css` | Estilos para a página de resumos |
 | `standalones.css` | Estilos para a página de standalones |
 | `wonderland.css` | Estilos para o evento Maravilhas |
 
