@@ -56,7 +56,6 @@ Folhas de estilo CSS para diferentes páginas e funcionalidades.
 | `deadmaze.css` | Estilos para a dressroom do Dead Maze |
 | `iframe.css` | Estilos para iframes específicos |
 | `jogar.css` | Estilos para páginas com "Jogar" |
-| `loja.css` | Estilos para loja |
 | `main.css` | Estilos principais |
 | `resumo.css` | Estilos para a página de resumos |
 | `standalones.css` | Estilos para a página de standalones |
