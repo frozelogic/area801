@@ -41,6 +41,7 @@ Códigos JavaScript organizados por categoria de uso.
 | `baus.js` | - | Funcionalidades específicas para baús |
 | **vendor** | Estável | Scripts únicos que cumprem seu objetivo |
 | `contato.js` | - | Sistema de contato para a página referente |
+| `enigma.js` | - | Sistema para a solução do enigma do Ano Novo Chinês |
 | `resumo.js` | - | Funcionalidades sobre os eventos na página de resumos |
 | `search.js` | - | Sistema de busca e filtragem do evento Maravilhas |
 
@@ -53,6 +54,7 @@ Folhas de estilo CSS para diferentes páginas e funcionalidades.
 | `blog.css` | Estilos não utilizados do blog |
 | `contato.css` | Estilos para a página de contato |
 | `deadmaze.css` | Estilos para a dressroom do Dead Maze |
+| `enigma.css` | Estilos para a página do Ano Novo Chinês |
 | `iframe.css` | Estilos para iframes específicos |
 | `jogar.css` | Estilos para páginas com "Jogar" |
 | `main.css` | Estilos principais |
