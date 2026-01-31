@@ -44,6 +44,7 @@ Códigos JavaScript organizados por categoria de uso.
 | `enigma.js` | - | Sistema para a solução do enigma do Ano Novo Chinês |
 | `resumo.js` | - | Funcionalidades sobre os eventos na página de resumos |
 | `search.js` | - | Sistema de busca e filtragem do evento Maravilhas |
+| `tribewar.js` | - | Sistema de placar para o minigame Tribewar |
 
 ### 📂 Styles
 Folhas de estilo CSS para diferentes páginas e funcionalidades.
@@ -60,6 +61,7 @@ Folhas de estilo CSS para diferentes páginas e funcionalidades.
 | `main.css` | Estilos principais |
 | `resumo.css` | Estilos para a página de resumos |
 | `standalones.css` | Estilos para a página de standalones |
+| `tribewar.css` | Estilos para a página de ranking Tribewar |
 | `wonderland.css` | Estilos para o evento Maravilhas |
 
 ## 🚀 Como Usar
