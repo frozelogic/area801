@@ -1,0 +1,15 @@
+.filtrar-tribos {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 10px 0;
+  padding: 8px 12px;
+  width: auto;
+  min-width: 160px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.filtrar-tribos:focus {
+  outline: none;
+  border-color: #4a90e2;
+}
