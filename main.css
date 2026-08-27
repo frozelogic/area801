@@ -1,0 +1,88 @@
+code {
+  background-color: #f4f4f4;
+  border-radius: 0.1875rem;
+  padding: 0.125rem 0.3125rem;
+}
+
+footer {
+  margin: 1rem 0 0 0;
+  text-align: center;
+}
+
+img {
+  display: inline;
+  margin: auto;
+  vertical-align: middle;
+}
+
+p, h1, h2, h3, h4, h5, h6, ul {
+  margin: 1rem 0 1rem 0;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0.3125rem;
+  width: 100%;
+}
+
+td {
+  padding: 0.3125rem;
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+.block {
+  display: block;
+}
+
+.center {
+  text-align: center;
+}
+
+.clearfix::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.click {
+  display: inline-block;
+  font-family: arial black;
+  position: relative;
+}
+
+.click .count {
+  bottom: 0;
+  color: white;
+  font-size: 12px;
+  line-height: 1.5;
+  position: absolute;
+  right: 3px;
+  text-shadow: 1.25px 1.25px 1px #000000, -1.25px 1.25px 1px #000000, 1.25px -1.25px 1px #000000, -1.25px -1.25px 1px #000000;
+}
+
+.divider {
+  border-top: 1px solid #ccc;
+}
+
+.left {
+  clear: left;
+  float: left;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.margin {
+  margin: 0 auto 1rem auto;
+}
+
+.red {
+  color: red;
+}
+
+.right {
+  clear: right;
+  float: right;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
